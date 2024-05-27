@@ -1,0 +1,23 @@
+{
+  "name": "console-tintify",
+  "version": "1.0.0",
+  "description": "ConsoleTintify is a powerful JavaScript library designed to enhance your console output with vibrant colors and stylish text modifications. Whether you need basic colors, complex gradients, or specific HEX and RGB values, ConsoleTintify has got you covered. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyalgr33n/ConsoleTintify.git"
+  },
+  "keywords": [
+    "console",
+    "consoletintify"
+  ],
+  "author": "EyalGreen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyalgr33n/ConsoleTintify/issues"
+  },
+  "homepage": "https://github.com/eyalgr33n/ConsoleTintify#readme"
+}
